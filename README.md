@@ -1,1 +1,3 @@
-Meu primeiro projeto no git (Alterado e Atualizado).
+Meu primeiro projeto no git.
+
+Alterato e atualizado para exemplificar o git revert.
